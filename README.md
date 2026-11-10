@@ -9,11 +9,9 @@
 
 - 👨‍💻 All of my projects are available at my [Github Profile](https://github.com/ShreyaKesarwani1922)
 
-- 💬 Ask me about **Hindu mythology or How social networks work!**
+- 💬 Ask me about **How social networks work!**
 
 - 📫 How to reach me **Check out my social media accounts**
-
-- ⚡ Fun fact **The first computer "bug" was a real bug!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
