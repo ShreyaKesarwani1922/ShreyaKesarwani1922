@@ -1,27 +1,86 @@
-<h1 align="center">Hi 👋, I'm Shreya Kesarwani</h1>
-<h3 align="center">Software engineer building and scaling microservices in Go and Node.js/TypeScript across fintech and logistics</h3>
+# Hi 👋, I'm Shreya Kesarwani
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shreyakesarwani1922&label=Profile%20views&color=0e75b6&style=flat" alt="shreyakesarwani1922" /> </p>
+### Software Engineer | Backend Engineering | Go | Distributed Systems
 
-- 🔭 I’m currently working on **Learning how to resolve public github issues**
+I enjoy building systems that handle real-world complexity, solving problems that make me think twice, and figuring out why something broke at 2 AM (even when it wasn't supposed to).
 
-- 👯 I’m looking to collaborate on **Go based projects**
+- 🔭 **Currently exploring:** Open-source contributions, understanding large codebases, and fixing real-world GitHub issues.
+- 🌱 **Currently learning:** Go internals, distributed systems, system design, and database internals.
+- 👯 **Looking to collaborate on:** Go-based projects, backend infrastructure, and developer tools.
+- 💬 **Ask me about:** Go, Java, C++, microservices, Redis, Kafka, PostgreSQL, and DSA.
+- ⚡ **Fun fact:** I enjoy turning complicated engineering problems into surprisingly simple solutions.
+- 📫 **Reach me at:** [shreyakesarwani2023@gmail.com](mailto:shreyakesarwani2023@gmail.com)
+- 📄 **Experience:** [View my resume](https://drive.google.com/file/d/1r6Pc-WYOZNY_dsx8NnmdQB3g0DoyRfdb/view?usp=sharing)
 
-- 📫 How to reach me **shreyakesarwani2023@gmail.com**
+---
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1r6Pc-WYOZNY_dsx8NnmdQB3g0DoyRfdb/view?usp=sharing](https://drive.google.com/file/d/1r6Pc-WYOZNY_dsx8NnmdQB3g0DoyRfdb/view?usp=sharing)
+### 🌐 Connect with me
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/shreya2023" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shreya2023" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/shreyakesarwani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shreyakesarwani" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/shreya2023" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" height="35" alt="LinkedIn"/>
+</a>
+<a href="https://leetcode.com/shreyakesarwani" target="_blank">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/leetcode.svg" height="35" alt="LeetCode"/>
+</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shreyakesarwani1922&show_icons=true&locale=en&layout=compact" alt="shreyakesarwani1922" /></p>
+### 🛠️ Tech Stack
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shreyakesarwani1922&show_icons=true&locale=en" alt="shreyakesarwani1922" /></p>
+**Languages**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shreyakesarwani1922&" alt="shreyakesarwani1922" /></p>
+<p>
+<img src="https://skillicons.dev/icons?i=go,java,cpp,js,ts,python" />
+</p>
+
+**Backend & Databases**
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,postgres,mongodb,redis,kafka" />
+</p>
+
+**Infrastructure & Tools**
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,aws,gcp,git,postman" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=shreyakesarwani1922&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyakesarwani1922&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=shreyakesarwani1922&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+### 💻 A little more about me
+
+```go
+package main
+
+import "fmt"
+
+func main() {
+    interests := []string{
+        "Backend Engineering",
+        "Distributed Systems",
+        "Open Source",
+        "Problem Solving",
+    }
+
+    for _, interest := range interests {
+        fmt.Println("Exploring:", interest)
+    }
+}
+```
+
+**Always curious. Always building. Always debugging.**
