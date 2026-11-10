@@ -21,7 +21,9 @@ I enjoy building systems that handle real-world complexity, solving problems tha
 <img src="https://skillicons.dev/icons?i=linkedin" height="35" alt="LinkedIn"/>
 </a>
 <a href="https://leetcode.com/shreyakesarwani" target="_blank">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/leetcode.svg" height="35" alt="LeetCode"/>
+  <img src="https://cdn.simpleicons.org/leetcode/FFFFFF"
+       height="35"
+       alt="LeetCode"/>
 </a>
 </p>
 
